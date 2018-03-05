@@ -10,6 +10,10 @@ After creation please add user [storager](https://github.com/Storager) as a coll
 
 When I accept invitation please grant me owner privileges:
 
-1. Find me in organization page
+1. Find me in an organization page
 
-![Me at the page](img/gh-grant-perm-1.png)
+![Me at the page](/img/gh-grant-perm-1.png)
+
+2. Click on the link and put grant owner privileges
+
+![Me as owner](/img/gh-grant-perm-2.png)
