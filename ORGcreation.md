@@ -12,4 +12,4 @@ When I accept invitation please grant me owner privileges:
 
 1. Find me in organization page
 
-![Me at the page]("img/gh-grant-perm-1.png")
+![Me at the page](img/gh-grant-perm-1.png)
