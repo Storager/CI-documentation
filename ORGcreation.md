@@ -14,6 +14,6 @@ When I accept invitation please grant me owner privileges:
 
 ![Me at the page](/img/gh-grant-perm-1.png)
 
-2. Click on the link and put grant owner privileges
+2. Click on the link and grant the owner privileges
 
 ![Me as owner](/img/gh-grant-perm-2.png)
