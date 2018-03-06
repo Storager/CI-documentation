@@ -17,3 +17,5 @@ When I accept invitation please grant me owner privileges:
 2. Click on the link and grant the owner privileges
 
 ![Me as owner](/img/gh-grant-perm-2.png)
+
+CircleCI uses Github authentication. Create an account. I will add both organization and you to the CI project
